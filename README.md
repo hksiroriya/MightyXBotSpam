@@ -5,9 +5,9 @@
   <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
 </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXBotSpam)
-[![Forks](https://img.shields.io/github/forks/BeingMighty/MightyXBotSpam?style=flat-square&color=blue)](https://github.com/BeingMighty/MightyXBotSpam/fork)
-![Repo Size](https://img.shields.io/github/repo-size/BeingMighty/MightyXBotSpam?&color=limegreen&style=flat-square&logo=github)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/hksiroriya/MightyXBotSpam)
+[![Forks](https://img.shields.io/github/forks/hksiroriya/MightyXBotSpam?style=flat-square&color=blue)](https://github.com/BeingMighty/MightyXBotSpam/fork)
+![Repo Size](https://img.shields.io/github/repo-size/hksiroriya/MightyXBotSpam?&color=limegreen&style=flat-square&logo=github)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue?style=flat-square)](https://www.python.org/)
 
  
@@ -18,13 +18,13 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpam-deploy-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hksiroriya/MightyBotSpam-deploy-)
 
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚡ Updates Channel ⚡](https://t.me/GREAT_VIBESS)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [✨ Support Group ✨](https://t.me/HIMANSHUxSHOP)
 <br>
 
 <details>
